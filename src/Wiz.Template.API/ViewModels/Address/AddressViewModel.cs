@@ -17,5 +17,6 @@
         public string StreetFull { get; set; }
         public string UF { get; set; }
         public int Teste { get; set; }
+        public int Teste2 { get; set; }
     }
 }
