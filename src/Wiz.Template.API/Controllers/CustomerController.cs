@@ -64,6 +64,7 @@ namespace Wiz.Teste1.API.Controllers
                 return NoContent();
             }
 
+            //teste
             return Ok(customerVM);
         }
 
