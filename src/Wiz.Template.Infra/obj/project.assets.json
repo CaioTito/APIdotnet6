@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Wiz.Template.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Wiz.Template.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Wiz.Template.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Wiz.Template.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Wiz.Template.Domain/Wiz.Template.Domain.csproj",
+      "msbuildProject": "../Wiz.Template.Domain/Wiz.Template.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Wiz.Template.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\caio_\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj": {
+              "projectPath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
