@@ -1,12 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Newtonsoft.Json;
 
-namespace Wiz.Template.Domain.Model.HttpServices
+namespace Wiz.Teste1.Domain.Models.Services
 {
-    internal class ViaCep
+    public class ViaCEP
     {
+        public ViaCEP() { }
+
+        public ViaCEP(string cep, string street, string streetFull, string uf)
+        {
+            CEP = cep;
+            Street = street;
+            StreetFull = streetFull;
+            UF = uf;
+        }
+
+        [JsonProperty("cep")]
+        public string CEP { get; set; }
+        [JsonProperty("logradouro")]
+        public string Street { get; set; }
+        [JsonProperty("complemento")]
+        public string StreetFull { get; set; }
+        [JsonProperty("uf")]
+        public string UF { get; set; }
     }
 }

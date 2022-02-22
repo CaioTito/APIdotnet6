@@ -1,5 +1,6 @@
 ﻿using System.Text.Json;
 using Wiz.Template.Domain.Interfaces.HttpService;
+using Wiz.Teste1.Domain.Models.Services;
 
 namespace Wiz.Template.Infra.Services
 {

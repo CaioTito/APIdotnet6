@@ -1,9 +1,8 @@
-﻿using System.Threading.Tasks;
-using Wiz.Teste1.Domain.Models.Services;
+﻿using Wiz.Teste1.Domain.Models.Services;
 
-namespace Wiz.Teste1.Domain.Interfaces.Services
+namespace Wiz.Template.Domain.Interfaces.HttpService
 {
-    public interface IViaCEPService
+    public interface IViaCEPHttpService
     {
         Task<ViaCEP> GetByCEPAsync(string cep);
     }
