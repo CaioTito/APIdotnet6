@@ -43,18 +43,18 @@ TODO
 
 Padrão das camadas do projeto:
 
-1. **Wiz.[NomeProjeto].API**: responsável pela camada de *disponibilização* dos endpoints da API;
-2. **Wiz.[NomeProjeto].Domain**: domínio da aplicação, responsável de manter as *regras de negócio* para a API;
+1. **Wiz.[NomeProjeto].API**: responsável pela camada de _disponibilização_ dos endpoints da API;
+2. **Wiz.[NomeProjeto].Domain**: domínio da aplicação, responsável de manter as _regras de negócio_ para a API;
 3. **Wiz.[NomeProjeto].Infra**: camada mais baixa, para acesso a dados, infraestrutura e serviços externos;
-4. **Wiz.[NomeProjeto].Contract.Tests**: responsável pela camada de *testes de contrato* dos projetos.
-5. **Wiz.[NomeProjeto].Integration.Tests**: responsável pela camada de *testes de integração* dos projetos.
+4. **Wiz.[NomeProjeto].Contract.Tests**: responsável pela camada de _testes de contrato_ dos projetos.
+5. **Wiz.[NomeProjeto].Integration.Tests**: responsável pela camada de _testes de integração_ dos projetos.
 6. **Wiz.[NomeProjeto].Shared**: responsável por receber objetos mocks, builders e fixtures para ajudar na criação dos testes.
-7. **Wiz.[NomeProjeto].Unit.Tests**: responsável pela camada de *testes unitários* dos projetos.
+7. **Wiz.[NomeProjeto].Unit.Tests**: responsável pela camada de _testes unitários_ dos projetos.
 
 Formatação do projeto dentro do repositório:
 
 ```console
-├── src 
+├── src
   ├── Wiz.[NomeProjeto].API (projeto)
   ├── Wiz.[NomeProjeto].Domain (projeto)
   ├── Wiz.[NomeProjeto].Infra (projeto)
@@ -68,7 +68,7 @@ Formatação do projeto dentro do repositório:
 
 ## Build e testes
 
-### **Build com Visual Studio**
+### **Build com Visual Studio 2022**
 
 1. Comandos para geração de build:
 
@@ -84,22 +84,22 @@ As funcionalidades **Live Unit Testing** e **Code Coverage** estão disponíveis
 ### **Build com Visual Studio Code**
 
 1. Instalar o pacote [DevZ - Back-end Pack
-](https://marketplace.visualstudio.com/items?itemName=WizSolucoes.devz-back-end-pack)
+   ](https://marketplace.visualstudio.com/items?itemName=WizSolucoes.devz-back-end-pack)
 
 2. Executar **task** (ctrl + shift + p) e digite **Run Test Task**:
 
-- *test* - Executar projeto de testes
-- *test with coverage* - Executar projeto de testes com cobertura
+- _test_ - Executar projeto de testes
+- _test with coverage_ - Executar projeto de testes com cobertura
 
-3. Ativar **Watch** na parte inferior do Visual Studio Code para habilitar cores nas classes que descrevem a cobertura. É necessário executar os testes no modo *test with coverage*.
+3. Ativar **Watch** na parte inferior do Visual Studio Code para habilitar cores nas classes que descrevem a cobertura. É necessário executar os testes no modo _test with coverage_.
 
-4. O relatório dos testes são gerados automaticamente na pasta **code_coverage** localizada na pasta **test** sempre que for executado o comando a task *test with coverage*.
+4. O relatório dos testes são gerados automaticamente na pasta **code_coverage** localizada na pasta **test** sempre que for executado o comando a task _test with coverage_.
 
 ## NuGet privado
 
 ### **Visual Studio + nuget**
 
-1. Adicionar *url* do NuGet privado no caminho do *menu* abaixo:
+1. Adicionar _url_ do NuGet privado no caminho do _menu_ abaixo:
 
 ```console
 Tools -> NuGet Package Manager -> Package Sources
@@ -107,18 +107,18 @@ Tools -> NuGet Package Manager -> Package Sources
 
 ### **Visual Studio Code + nuget**
 
-1. Abrir *Prompt de Comando* de sua preferência (**CMD** ou **PowerShell**) ou utilizar o terminal do Visual Studio Code;
+1. Abrir _Prompt de Comando_ de sua preferência (**CMD** ou **PowerShell**) ou utilizar o terminal do Visual Studio Code;
 
 2. Executar script Powershell para adicionar permissão do NuGet na máquina local:
 
 - https://github.com/microsoft/artifacts-credprovider/blob/master/helpers/installcredprovider.ps1 (Windows);
 - https://github.com/microsoft/artifacts-credprovider/blob/master/helpers/installcredprovider.sh (Linux/Mac)
 
-3. Localizar *source (src)* do projeto desejado para instalar o NuGet;
+3. Localizar _source (src)_ do projeto desejado para instalar o NuGet;
 
 4. Executar comando para instalar NuGet privado e seguir instruções;
 
-  > *dotnet add package [NomePacote] -s https://pkgs.dev.azure.com/[NomeOrganizacao]/_packaging/[NomeProjeto]/nuget/v3/index.json --interactive
+> \*dotnet add package [NomePacote] -s https://pkgs.dev.azure.com/[NomeOrganizacao]/_packaging/[NomeProjeto]/nuget/v3/index.json --interactive
 
 ## CI/CD
 
@@ -128,4 +128,4 @@ Nossas APIs são provisionadas usando o Azure Devops, portanto as informações 
 
 - Incluir documentação padrão no arquivo [README.md](README.md).
 - Após inclusão da documentação padrão, **excluir** este arquivo e TODAS as **classes** indentificadas como exemplo.
-  - O serviço para busca de endereço **Via CEP** assim como o contexto de **Customer** foi utilizado apenas como exemplo. O uso do serviço **Via CEP** está disponível no *NuGet* corporativo.
+  - O serviço para busca de endereço **Via CEP** assim como o contexto de **Customer** foi utilizado apenas como exemplo. O uso do serviço **Via CEP** está disponível no _NuGet_ corporativo.
