@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9uJ+nwfAq/6iAJb9OIGfjbgG9dEQy5m3bqzqXtTYurmM12VUr7lAAFjQuoY88M0FUwaFm4VBrgcUdMO+CTLhQ==",
+  "dgSpecHash": "JZsOx5TcLOV85dpw1Xh5d0Vs6G4yOFAUiq/laVOxgTgl4AcA4Ujkr2YMwKUH+4mP3ggyhXmGg+NTirnt/qSZIQ==",
   "success": true,
-  "projectFilePath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.Infra\\Wiz.Template.Infra.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.Infra\\Wiz.Template.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

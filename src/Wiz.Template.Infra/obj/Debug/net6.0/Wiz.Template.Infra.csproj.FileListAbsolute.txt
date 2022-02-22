@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\bin\Debug\net6.0\Wiz.Template.Infra.deps.json
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\bin\Debug\net6.0\Wiz.Template.Infra.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\bin\Debug\net6.0\Wiz.Template.Infra.pdb
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\bin\Debug\net6.0\Wiz.Template.Domain.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\bin\Debug\net6.0\Wiz.Template.Domain.pdb
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.csproj.CopyComplete
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\refint\Wiz.Template.Infra.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\Wiz.Template.Infra.pdb
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Infra\obj\Debug\net6.0\ref\Wiz.Template.Infra.dll

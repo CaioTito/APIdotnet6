@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NSwag.Annotations;
+using Wiz.Template.API.Services.Interfaces;
+using Wiz.Template.API.ViewModels.Customer;
 
-namespace Wiz.Teste1.API.Controllers
+namespace Wiz.Template.API.Controllers
 {
     [ApiController]
     //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]

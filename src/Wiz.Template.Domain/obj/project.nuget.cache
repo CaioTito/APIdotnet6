@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mP5YbUUEDZSWA05tBrErCFQv2G8oAmxUDsDou6j2x90Myy7FBWi2Xh+FIUu7fYJK3z9lOpOcK0db+T68ZhV/1g==",
+  "dgSpecHash": "X8EGv+mIr60d7fj+HQtgWIuK47deXHkteauVlpRB3oQkXJGM7yigYO413LwJQmJcmCf+Yi8hS/Ze3lmgwDgeAg==",
   "success": true,
-  "projectFilePath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj",
+  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\caio_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Leandro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

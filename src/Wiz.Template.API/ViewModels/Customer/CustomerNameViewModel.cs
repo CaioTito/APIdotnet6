@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 
-namespace Wiz.Teste1.API.ViewModels.Customer
+namespace Wiz.Template.API.ViewModels.Customer
 {
     public class CustomerNameViewModel
     {

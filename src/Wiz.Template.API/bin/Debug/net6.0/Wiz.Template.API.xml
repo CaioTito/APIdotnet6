@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wiz.Template.API</name>
+    </assembly>
+    <members>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.GetAll">
+            <summary>
+            Lista de clientes.
+            </summary>
+            <remarks>
+            Retorna uma lista com todos os clientes
+            </remarks>
+            <response code="200">Retorna lista de endereços.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.GetById(Wiz.Template.API.ViewModels.Customer.CustomerIdViewModel)">
+            <summary>
+            Cliente por Id.
+            </summary>
+            <remarks>
+            Retorna cliente pelo Id
+            </remarks>
+            <param name="customer">Parâmetro "id" do cliente.</param>
+            <response code="200">Retorna endereço.</response>
+            <response code="204">Cliente não encontrado.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.GetByName(Wiz.Template.API.ViewModels.Customer.CustomerNameViewModel)">
+            <summary>
+            Cliente por nome.
+            </summary>
+            <remarks>
+            Retorna cliente pelo nome
+            </remarks>
+            <param name="customer">Parâmetro "nome" do cliente.</param>
+            <response code="200">Retorna lista de endereços.</response>
+            <response code="204">Não encontrado.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.PostCustomer(Wiz.Template.API.ViewModels.Customer.CustomerViewModel)">
+            <summary>
+            Criação de cliente.
+            </summary>
+            <remarks>
+            Cria um novo cliente
+            </remarks>
+            <param name="customer">Parâmetro "cliente".</param>
+            <response code="201">Registro criado.</response>
+            <response code="204">Cliente não encontrado.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.PutCustomer(System.Int32,Wiz.Template.API.ViewModels.Customer.CustomerViewModel)">
+            <summary>
+            Atualização de cliente.
+            </summary>
+            <remarks>
+            Atualiza um cliente
+            </remarks>
+            <param name="id">Parâmetro "id" do cliente.</param>
+            <param name="customer">Parâmetro "cliente".</param>
+            <response code="202">Registro criado.</response>
+            <response code="204">Cliente não encontrado.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+        <member name="M:Wiz.Template.API.Controllers.CustomerController.DeleteCustomer(Wiz.Template.API.ViewModels.Customer.CustomerIdViewModel)">
+            <summary>
+            Exclusão de cliente.
+            </summary>
+            <remarks>
+            Exclui um cliente
+            </remarks>
+            <param name="customer">Parâmetro "id" do cliente.</param>
+            <response code="202">Registro criado.</response>
+            <response code="204">Cliente não encontrado.</response>
+            <response code="400">Erro de requisição.</response>
+            <response code="401">Acesso negado.</response>
+            <response code="500">Erro interno da API.</response>
+        </member>
+    </members>
+</doc>

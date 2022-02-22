@@ -1,0 +1,12 @@
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\bin\Debug\net6.0\Wiz.Template.Domain.deps.json
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\bin\Debug\net6.0\Wiz.Template.Domain.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\bin\Debug\net6.0\Wiz.Template.Domain.pdb
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\refint\Wiz.Template.Domain.dll
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\Wiz.Template.Domain.pdb
+D:\Users\Leandro\Projetos\APIdotnet6\src\Wiz.Template.Domain\obj\Debug\net6.0\ref\Wiz.Template.Domain.dll

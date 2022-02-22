@@ -1,4 +1,4 @@
-﻿namespace Wiz.Teste1.API.ViewModels.Address
+﻿namespace Wiz.Template.API.ViewModels.Address
 {
     public class AddressViewModel
     {

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
-using Wiz.Teste1.API.ViewModels.Address;
+using Wiz.Template.API.ViewModels.Address;
 
-namespace Wiz.Teste1.API.ViewModels.Customer
+namespace Wiz.Template.API.ViewModels.Customer
 {
     public class CustomerAddressViewModel
     {
