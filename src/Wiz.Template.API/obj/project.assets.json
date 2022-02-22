@@ -3274,24 +3274,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Leandro\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\caio_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.API\\Wiz.Template.API.csproj",
+      "projectUniqueName": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.API\\Wiz.Template.API.csproj",
       "projectName": "Wiz.Template.API",
-      "projectPath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.API\\Wiz.Template.API.csproj",
-      "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.API\\obj\\",
+      "projectPath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.API\\Wiz.Template.API.csproj",
+      "packagesPath": "C:\\Users\\caio_\\.nuget\\packages\\",
+      "outputPath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\caio_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

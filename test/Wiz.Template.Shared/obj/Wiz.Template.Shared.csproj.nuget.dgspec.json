@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj": {}
+    "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj": {
+    "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj",
+        "projectUniqueName": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj",
         "projectName": "Wiz.Template.Shared",
-        "projectPath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj",
-        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\test\\Wiz.Template.Shared\\obj\\",
+        "projectPath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\test\\Wiz.Template.Shared\\Wiz.Template.Shared.csproj",
+        "packagesPath": "C:\\Users\\caio_\\.nuget\\packages\\",
+        "outputPath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\test\\Wiz.Template.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\caio_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

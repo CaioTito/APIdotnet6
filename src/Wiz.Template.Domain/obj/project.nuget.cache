@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUBrnqGxIQ0FGTWf5XUqgaYtUiBtw61Xp4bhLrlQEHNnrhnbDI7n/cUo+wqMaEycstdVqrALw1iXHbIZk3OZCA==",
+  "dgSpecHash": "3XBi5l/Iup89xyZbNsVTbEoCFjIeA4bqkr1LNViiN/zQO8hGVRyVLpBues9/IUh8actPsOXOW0OawHxNQXA26Q==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj",
+  "projectFilePath": "D:\\Caio\\WIZ\\Testes\\APIdotnet6\\src\\Wiz.Template.Domain\\Wiz.Template.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
